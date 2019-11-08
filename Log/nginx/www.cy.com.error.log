@@ -1,0 +1,1 @@
+2019/11/08 12:20:29 [error] 7#7: *10 FastCGI sent in stderr: "Primary script unknown" while reading response header from upstream, client: 172.19.0.1, server: www.cy.com, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://172.19.0.2:9000", host: "www.cy.com", referrer: "http://www.cy.com/name.php"
